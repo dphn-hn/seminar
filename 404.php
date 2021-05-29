@@ -28,7 +28,8 @@
 	</div>
 </div>
 <!-- section-element-area-end -->
-<?php include 'footer.php' ?><!-- section-element-area-end -->
+<?php include 'footer.php' ?><!-- section-element-area<!-- section-element-area-end -->
+-end -->
 
 <!-- section-element-area-end -->
 n-element-<!-- section-element-area-end -->
