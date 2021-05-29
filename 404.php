@@ -1,5 +1,6 @@
 <!-- section-element-area-end -->
 <!-- section-element-area-end -->
+<!-- section-element-area-end -->
 <?php include 'header.php' ?>
 
 <!-- section-element-area-start -->
