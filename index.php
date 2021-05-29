@@ -4,6 +4,7 @@
 <!-- header-area-end -->
 <!-- header-area-end -->
 <!-- header-area-end -->
+<!-- header-area-end -->
 
 <!-- slider-group-start -->
 <!-- slider-group-end -->
