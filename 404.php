@@ -29,6 +29,7 @@
 <?php include 'footer.php' ?>
 
 <!-- section-element-area-end --><!-- section-element-<!-- section-element-area-end -->
+<!-- section-element-area-end -->
 area-end -->
 
 <!-- section-element-area-end -->
