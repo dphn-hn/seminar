@@ -19,3 +19,5 @@
 </div>
 <!-- section-element-area-end -->
 <?php include 'footer.php' ?>
+
+<!-- section-element-area-end -->
