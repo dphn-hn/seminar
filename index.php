@@ -114,6 +114,7 @@
 						<?php } ?>
 					</div>
 				</div>
+				
 				<!-- new-book-area-start -->
 				<!-- hot-sell-area-2-start -->
 				<div class="hot-sell-area-2 pb-50">
